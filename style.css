@@ -1,0 +1,14 @@
+body {
+    font-size: 24px;
+    background: radial-gradient( #8b9aeb, rgb(219, 32, 32));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+img {
+    opacity: 0.9;
+}
+
+img:hover {
+    opacity: 1.0
+}
